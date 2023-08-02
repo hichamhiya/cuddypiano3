@@ -1,5 +1,5 @@
 {
-	"version": "piano v3",
+	"version": "Piano 6",
 
 
 
@@ -9,13 +9,13 @@
 "unityi": "Interstitial_Android",
 "unityr": "Rewarded_Android",
 
-"admobbanner": "ca-app-pub-3940256099942544/6300978111",
-"admobinter": "ca-app-pub-3940256099942544/1033173712",
-"admobreward": "ca-app-pub-3940256099942544/5224354917",
+"admobbanner": "ca-app-pub-8989112636953578/1159939046",
+"admobinter": "ca-app-pub-8989112636953578/6220694033",
+"admobreward": "ca-app-pub-8989112636953578/3197060971",
 
 "adswitch detail": "0 auto , 1 admob 2  unity",
 
-"adswitch": "2"
+"adswitch": "1"
 
 
 
